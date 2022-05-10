@@ -1,3 +1,3 @@
-Brisket
-tacos
-steak
+- Brisket
+- tacos
+- steak
